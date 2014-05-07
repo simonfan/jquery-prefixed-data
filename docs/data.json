@@ -1,0 +1,79 @@
+{
+    "project": {
+        "name": "jquery-prefixed-data",
+        "version": "0.0.0"
+    },
+    "files": {
+        "src/index.js": {
+            "name": "src/index.js",
+            "modules": {
+                "jquery-prefixed-data": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {
+        "jquery-prefixed-data": {
+            "name": "jquery-prefixed-data",
+            "submodules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "src/index.js",
+            "line": 5,
+            "description": "AMD module."
+        }
+    },
+    "classes": {},
+    "classitems": [
+        {
+            "file": "src/index.js",
+            "line": 20,
+            "description": "Creates a Regular Expression to capture property name.",
+            "class": "",
+            "module": "jquery-prefixed-data"
+        },
+        {
+            "file": "src/index.js",
+            "line": 29,
+            "description": "Returns the string with the first letter to lowercase.",
+            "class": "",
+            "module": "jquery-prefixed-data"
+        },
+        {
+            "file": "src/index.js",
+            "line": 36,
+            "description": "Returns the string with the first letter to uppercase.",
+            "class": "",
+            "module": "jquery-prefixed-data"
+        },
+        {
+            "file": "src/index.js",
+            "line": 47,
+            "description": "Removes the prefix from a given set of data.",
+            "class": "",
+            "module": "jquery-prefixed-data"
+        }
+    ],
+    "warnings": [
+        {
+            "message": "Missing item type\nCreates a Regular Expression to capture property name.",
+            "line": " src/index.js:20"
+        },
+        {
+            "message": "Missing item type\nReturns the string with the first letter to lowercase.",
+            "line": " src/index.js:29"
+        },
+        {
+            "message": "Missing item type\nReturns the string with the first letter to uppercase.",
+            "line": " src/index.js:36"
+        },
+        {
+            "message": "Missing item type\nRemoves the prefix from a given set of data.",
+            "line": " src/index.js:47"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jquery-prefixed-data",
+  "main": "built/jquery-prefixed-data.js",
+  "version": "0.1.0",
+  "description": "Some module...",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "qunit": "*"
+  }
+}
